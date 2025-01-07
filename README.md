@@ -34,8 +34,6 @@ I am **Bijay**, an enthusiast of web development and IT solutions. I am actively
 
 This website is hosted on **GitHub Pages**. Once the code is pushed to the repository, GitHub Pages will automatically deploy it.
 
-- Live website: [https://jayprasad.github.io/repository-name](https://jayprasad.github.io/repository-name)
-
 ## Contact
 
 For business inquiries, educational consultancy, or web development services, feel free to reach out to me via the following:
